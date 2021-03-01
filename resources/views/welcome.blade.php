@@ -63,7 +63,7 @@ Register
 <ul class="dropdown">
 <li><a href="/news">News</a></li>
 <li><a href="/events">Events</a></li>
-<li><a href="elements.html">Achievements</a></li>
+<li><a href="/achievwments">Achievements</a></li>
 
 <li class="has-children">
 {{-- <a href="#">News</a>

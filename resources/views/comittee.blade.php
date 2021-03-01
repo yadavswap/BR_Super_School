@@ -161,39 +161,46 @@
         {{-- <div class="mb-4"><img src="images/staff_2.jpg" alt="Image" class="img-fluid"></div> --}}
         <div class="staff-body">
         <ul>
-            Current School management committee:-
+            <b>Current School Management Committee:-</b>
             <li>Dr.Govinddasji Bhutada - President</li>
             <li>Shri. Satyendrababu Khona - Vice President</li>
-            <li>SShri.Jawaharlalji Chandak - Secretory</li>
-            <li>Madanlalji Nabira  - Member</li>
-            <li>Shri.Ashokji Bhutada - Treasurer</li>
-            <li>Rameshji Rathi - Patron’s representative</li>
-            <li>Sandeshji Chandak  - Patents‘Representative</li>
-            <li>Smt.Aruna Pawar - Headmaster</li>
-            <li>Shri Nandkishor Mangulkar - Teachers’ Representative</li><br><br>
-            School committee:-
+            <li>Shri. Jawaharlalji Chandak - Secretary</li>
+            <li>Shri. Madanlalji Nabira  - Member</li>
+            <li>Shri. Ashokji Bhutada - Treasurer</li>
+            <li>Shri. Rameshji Rathi - Patron’s representative</li>
+            <li>Shri. Sandeshji Chandak  - Parents Representative</li>
+            <li>Smt. Sandhya Taori - Headmistress</li>
+            <li>Shri. Nandkishor Mangulkar - Teachers’ Representative</li><br><br>
+            <b>School Committee:-</b>
             <li>Dr.Govinddasji Bhutada - President</li>
             <li>Shri. Satyendrababu  Khona - Member</li>
             <li>Shri.Jawaharlalji Chandak  - Member</li>
-            <li>Madanlalji Nabira  - Member</li>
-            <li>Smt.Aruna Pawar - Secretory</li>
+            <li>Shri. Madanlalji Nabira - Member</li>
+            <li>Smt.  Sandhya Taori - Secretary</li>
             <li>Smt.A.S.Barai  - Teachers’ Representative</li>
             <li>Shri.A.N.Pabbewar - Non-Teaching Representative</li><br><br>
-            All time Headmasters:-
+            <b>All Time Headmasters:-</b>
             <li>Shri.M.P. Gorde - (01.08.1945 to 30.10.1946)</li>
             <li>Shri.G.A Bhandarkar - (01.11.1946 to 02.11.1948)</li>
-            <li>Shri. K.B. Harjal - (16.08.1951 to 10.05. 1981)</li>
+            <li>Shri. K.B. Harjal - (03.11.1948 to07.07 1950)</li>
+            <li>Shri.V.K. Deshmukh - (08..7.1950 to 15.08.1951)</li>
+            <li>Shri. K.B. Harjal- (16.08.1951 to 10.05. 1981)</li>
             <li>Shri.V.K. Deshmukh - (11..05.1981 to 30.11.1983)</li>
             <li>Shri B.D. Pawar - (01.12.1983 to 28.02.1987)</li>
-            <li>Shri.P.K. Dhage - (01.03.1987 to 30.06.1992)</li>
-            <li>Shri. V.P Vekhande - (01.07.1992 to 30.08.1993)</li>
-            <li>Shri.G.K.Nabira - (01.09.1993 to07.05.1999)</li>
+            <li>Shri.P.K. Dhage   - (01.03.1987 to 30.06.1992)</li>
+            <li>Shri. V.P Vekhande  - (01.07.1992 to 30.08.1993)</li>
+            <li>Shri.G.K.Nabira   - (01.09.1993 to07.05.1999)</li>
             <li>Shri. R.Y.Dhirade - (08.05.1999 to 30.04. 2004)</li>
             <li>Shri. S.P. Matkari - (01.05.2004 to 31.05.2005)</li>
-            <li>Smt. C.H. Bodkhe - (01.06.2005 to 06.02.2007)</li>
+            <li>Smt. C.H. Bodkhe  - (01.06.2005 to 06.02.2007)</li>
             <li>Shri.R.S Shiraskar - (07.02.2007 to 31.08.2011)</li>
             <li>Shri.D.S. Salbarde - (01.09.2011 to 31.07.2013)</li>
-            <li>Smt.P.K.Malode - (01.10.2017 till date)</li>
+            <li>Smt.P.K.Malode - (01.08.2013 to  30.09.2017)</li>
+            <li>Ku. A.G. Pawar- (01.10.2017 28.02.2021           )</li>
+            <li>Smt. Sandhya Taori - (01.03.2021 to till date)</li><br>
+
+            <b>All Time Presidents:-</b>
+
             <li>Shri. Madanlalji Lata - (06.10.1946 to 27.11.1948)</li>
             <li>Shri. Trilokchandji Khona - (28.11.1948 to 22.04.1952)</li>
             <li>Shri.Vallabhdasji Bhutada - (23.04.1952 to 24.06.1954)</li>
@@ -201,12 +208,6 @@
             <li>Shri. Sudevji Vyas - (19.12.1972 to 29.09.1991)</li>
             <li>Shri. Jivanlalji Chandak - (30..9.1991 to 30.05.2003)</li>
             <li>Shri. Mohanlalji Nabira - (31.05.2003 to 06.09.2014)</li>
-            <li>Dr.Govindasji Bhutada - (09.09.2014 till date)</li>
-            <li>Anjali Ashok Ghode- (09.09.2014 till date)</li>
-            <li>Dr.Govindasji Bhutada - (09.09.2014 till date)</li>
-            <li>Dr.Govindasji Bhutada - (09.09.2014 till date)</li>
-            <li>Dr.Govindasji Bhutada - (09.09.2014 till date)</li>
-            <li>Dr.Govindasji Bhutada - (09.09.2014 till date)</li>
             <li>Dr.Govindasji Bhutada - (09.09.2014 till date)</li>
 
 
