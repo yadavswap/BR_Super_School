@@ -1,6 +1,5 @@
-@extends('layouts.header')
 @extends('layouts.footer')
-
+@extends('layouts.header')
 <!doctype html>
 <html lang="en">
 

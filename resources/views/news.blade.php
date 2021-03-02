@@ -69,7 +69,7 @@
     <img src="images/2.jpg" alt="Image">
     </figure>
     <div class="media-h-body">
-    <h2 class="mb-3"><a href="#">forest day is celebrated by making human tree</a></h2>
+    <h2 class="mb-3"><a href="#">Forest day is celebrated by making human tree</a></h2>
     <div class="meta "><span class="icon-calendar mr-2"></span><span>Feb 12, 2021 </span> <span class="icon-person mr-2"></span>BRHS</div>
     <p>On the occassion of the Forest day B.R.H.S.students made a human tree to give message of plantation to the society and make aware them about the deforestation.</p>
     </div>

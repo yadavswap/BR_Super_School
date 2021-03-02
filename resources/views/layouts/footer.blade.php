@@ -63,9 +63,9 @@
     <ul class="list-unstyled links mb-4">
     <li><a href="tel://11234567890">8888845525</a></li>
     <li><a href="tel://11234567890">8007544158</a></li>
-    <li><a href="https://preview.colorlib.com/cdn-cgi/l/email-protection#40292e262f002d39242f2d21292e6e232f2d"><span class="__cf_email__" data-cfemail="375e595158775a4e53585a565e591954585a">br.highschool.jc@gmail.com</span></a>
+    {{-- <li><a href="https://preview.colorlib.com/cdn-cgi/l/email-protection#40292e262f002d39242f2d21292e6e232f2d"><span class="__cf_email__" data-cfemail="375e595158775a4e53585a565e591954585a">br.highschool.jc@gmail.com</span></a>
         <a href="https://preview.colorlib.com/cdn-cgi/l/email-protection#40292e262f002d39242f2d21292e6e232f2d"><span class="__cf_email__" data-cfemail="375e595158775a4e53585a565e591954585a">brjc_gois@rediffmail.com</span></a>
-    </li>
+    </li> --}}
     </ul>
     </div> 
     </div> 

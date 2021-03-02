@@ -23,10 +23,10 @@
     <div class="sticky-nav js-sticky-header">
     <div class="container position-relative">
     <div class="site-navigation text-center">
-        <a href="#" class="logo menu-absolute m-0"><span class="text-primary">Banarasidas Ruiya High School</span></a><br>
+        <a href="#" class="logo menu-absolute m-0"><span class="text-primary">Banarasidas Ruiya High School</span></a><br><br>
         <ul class="js-clone-nav d-none d-lg-inline-block site-menu">
     <li class="active"><a href="/">Home</a></li>
-    <li class="active"><a href="/history">History</a></li>
+    <li ><a href="/history">History</a></li>
     
     <li class="has-children">
         <a href="#">News</a>

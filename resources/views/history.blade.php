@@ -55,7 +55,7 @@
 <div class="row justify-content-between">
 <div class="center justify-content-between ">
 {{-- <h2 class="line-bottom mb-4" data-aos="fade-up" data-aos-delay="0">Why Choose Us</h2> --}}
-<p class="center">Our school has been serving the city for 75 years with great academic and non-academic excellence but
+<p class="center" style="padding: 20px">Our school has been serving the city for 75 years with great academic and non-academic excellence but
     the path of this achievement was not easy. It was way back in 1920 s where there was no high school in
     our taluka . It was very difficult for students to continue further education .With this intention the stone
     laid down as Shrikrishnna High school in Mr Khankhoje’s House in Dantoli and Mr.Baburaoji Mulmule
